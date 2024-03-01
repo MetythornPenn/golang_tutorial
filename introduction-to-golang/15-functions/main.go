@@ -17,8 +17,6 @@ func main(){
 
 }
 
-
-
 func greater() {
 	fmt.Println("hello from golang")
 }

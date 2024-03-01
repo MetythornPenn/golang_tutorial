@@ -21,8 +21,8 @@ func main(){
 
 	xyber.GetStatus()
 	xyber.NewMail()
-
 }
+
 
 func (u User) GetStatus() {
 	fmt.Println("Is user active: ", u.Status)
